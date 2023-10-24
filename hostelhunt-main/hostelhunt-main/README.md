@@ -1,0 +1,2 @@
+# hostelhunt
+minor 1
